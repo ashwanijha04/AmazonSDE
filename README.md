@@ -1,5 +1,5 @@
 # AmazonSDE
-Problems and Solutions from Amazon SDE.
+Problems and Solutions from Amazon SDE Interview
 
 
 ## Topics that are recently asked:
