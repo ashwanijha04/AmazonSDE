@@ -1,2 +1,13 @@
 # AmazonSDE
-Prroblems and Solutions from Amazon SDE.
+Problems and Solutions from Amazon SDE.
+
+
+## Topics that are recently asked:
+- Arrays and Strings
+- Linked Lists
+- Trees and Graphs
+- Recursion
+- Sorting and Searching
+- Dynamic Programming
+- Design
+- Others
